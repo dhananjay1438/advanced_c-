@@ -1,3 +1,3 @@
 # Advanced cpp
-Advanced c++ topics (atleast for me)
+Learning advanced c++ topics (atleast for me)
 
